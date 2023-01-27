@@ -1,0 +1,14 @@
+{
+  "name": "rl-stats-raw",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "csv-writer": "^1.6.0",
+    "dotenv": "^10.0.0"
+  }
+}
